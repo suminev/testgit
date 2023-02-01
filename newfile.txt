@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 t1 newbranch
